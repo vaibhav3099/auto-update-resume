@@ -2,6 +2,10 @@
 
 Automatically refresh your [Naukri](https://www.naukri.com) resume with a script. It uses [Playwright](https://playwright.dev) to log in once (manually), save your session locally, and then re-upload your resume whenever you run it, so your profile stays fresh for recruiters.
 
+## Architecture
+
+![Project Architecture](./projet-architecture.png)
+
 ## Features
 
 - One-time manual login, with the session saved **locally**
